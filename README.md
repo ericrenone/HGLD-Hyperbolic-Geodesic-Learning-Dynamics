@@ -45,8 +45,7 @@ C_α = ‖μ_g‖²/Tr(Σ_g) of MIFP, the collapse-to-noise ratio Γ = ‖∇�
 of SDSD, and the Farey neighbor fraction F_c of FLD are three faces of one
 invariant: the **mixing rate of the geodesic flow** on the modular surface.
 
-HGLD makes this structure primary. The framework rests on five new source
-theories, each with a Wikipedia-canonical formulation:
+HGLD makes this structure primary:
 
 **I. Hyperbolic Geometry of the Upper Half-Plane.**
 H² = {z ∈ ℂ : Im(z) > 0} equipped with the Poincaré metric ds² = (dx²+dy²)/y².
