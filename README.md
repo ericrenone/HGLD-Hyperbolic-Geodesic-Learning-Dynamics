@@ -1,5 +1,6 @@
 # HGLD — Hyperbolic Geodesic Learning Dynamics
-## The Modular Surface as the Universal Loss Landscape, Geodesic Flow as Gradient Descent, and the Selberg Trace Formula as the Master Convergence Certificate
+## The Modular Surface as the Universal Loss Landscape, Geodesic Flow as Gradient Descent, and the Selberg Trace Formula
+
 ### A Unified Framework Extension — Bridges XXXVI · XXXVII · XXXVIII · XXXIX · XL
 #### Modules: HGLD · HPLM · SLFT · GMEC · MRKS · RTNE
 #### Integrating with: FLD (Farey Learning Dynamics) · CSDL (Bridges XXXI–XXXV) · MIFP (Möbius-Frobenius) · SDSD (Bundle Geometry) · GXMD (XXVIII–XXX) · SKML (XIX–XXI) · LKTL · VBE
